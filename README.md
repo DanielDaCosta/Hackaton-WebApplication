@@ -1,9 +1,12 @@
 # Brasa Hacks | MARCH 2020
 
-Hackaton Project: 
+Hackaton Project:
 * Desafio Ambev: Last Mile Delivery
 
 The project is an Web Applocation developed using Flask framework.
+
+The front page looks as follows:
+![Alt text](Images/front_page.png "Optional Title")
 
 ## Installation
 
@@ -17,20 +20,17 @@ pip install -r requirements.txt
 
 ## Usage
 
-In todPara rodar a aplicação é necessária rodar o seguinte comando no terminal:
+The application requieres a database in order to run. The *.env* file was removed from the repository for security reasons.
+To run the application, run the following command:
 
 ```bash
 python wsgi.py
 ```
-Acessar a url abaixo para acessar a plataforma:
+Acess the following *url*:
 
 ```bash
 http://127.0.0.1:5000/pedido
 ```
 
-Para finalizar a aplicação basta encerrar-la no terminal
-
 ## Authors
-Preparado por Bruno Hassan, Daniel da Costa, Felipe Pater, Icaro Torres e Marcelo Hiltner
-
-
+Contributers: Bruno Hassan, Daniel da Costa, Felipe Pater, Icaro Torres e Marcelo Hiltner
