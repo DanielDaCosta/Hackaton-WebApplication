@@ -12,7 +12,7 @@ The front page looks as follows:
 
 The code should run with no issues using Python versions 3.*
 
-Use [pip](https://pip.pypa.io/en/stable/) oacket manager in order to install all python dependencies from the file:  *requirements.txt*
+Use [pip](https://pip.pypa.io/en/stable/) package manager in order to install all python dependencies from the file:  *requirements.txt*
 
 ```bash
 pip install -r requirements.txt
