@@ -1,6 +1,6 @@
 # Brasa Hacks | MARCH 2020
 
-*Hackaton* Project
+**Hackaton** Project
 ### Desafio Ambev: Last Mile Delivery
 
 The project is an Web Applocation developed using Flask framework.
